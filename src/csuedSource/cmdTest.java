@@ -12,6 +12,8 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 public class cmdTest extends TestCase {
+	
+	//Ä¿¹Ô testing
 	Cmd_Driver cmd;
 	File_Buffer FILE;
 	File_Buffer FILE2;
